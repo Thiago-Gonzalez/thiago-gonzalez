@@ -4,7 +4,9 @@
   <li>💻 I'm a Computer Engineering student.
   <li>📚 Currently learning Python.
 </ul>
+
   ##
+  
 <div align="center">
   <a href="https://github.com/thiago-gonzalez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-gonzalez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
