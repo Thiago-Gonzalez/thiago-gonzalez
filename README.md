@@ -1,4 +1,8 @@
-### Thiago González's PORTFOLIO🗃
+#### Welcome to my PORTFOLIO🗃
+🧐 Thiago González.<br>
+👨‍🎓 Computer Engineering student.<br>
+💻 Currently learning Python and JS Web development on a bootcamp course by Dr. Angela Yu from Udemy.<br>
+🙌 Mateus 6:33 "Busquem, pois, em primeiro lugar o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas a vocês."
 
 ##
 
@@ -10,6 +14,10 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
@@ -21,6 +29,7 @@
   ##
  
 <div align="center"> 
+  <a href="https://www.youtube.com/channel/UCEu4uNSFcLB-p-Nkp5pixIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatothiagogonzalez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thiagogonzalez.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
