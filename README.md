@@ -14,28 +14,28 @@
 
 <div> 
   <h2>📩How to reach me: </h2>
-  <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/145/145807.png" target="_blank" width="30" height="30"></a> 
-  <a href="https://instagram.com/thiagogonzalez.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="40"></a>
-  <a href = "mailto:contatothiagogonzalez@gmail.com"><img src="https://user-images.githubusercontent.com/80121288/134347624-e4479d7f-217b-4bb3-af01-fc9e4faf2dcf.png" target="_blank" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img hspace="5" src="https://image.flaticon.com/icons/png/512/145/145807.png" target="_blank" width="30" height="30"></a> 
+  <a href="https://instagram.com/thiagogonzalez.dev" target="_blank"><img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="40"></a>
+  <a href = "mailto:contatothiagogonzalez@gmail.com"><img hspace="5" src="https://user-images.githubusercontent.com/80121288/134347624-e4479d7f-217b-4bb3-af01-fc9e4faf2dcf.png" target="_blank" width="30" height="30"></a>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <h2>💻Languages and Tools: </h2>
-  <img align="center" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" width="45" height="45" src="https://cdn4.iconfinder.com/data/icons/blackicon/54/bootstrap_icon-256.png">
-  <img align="center" alt="Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="jQuery" width="45" height="45" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png">
-  <img align="center" alt="C" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
-  <img align="center" alt="Git" width="40" height="40" src="https://user-images.githubusercontent.com/80121288/134348295-401a09f4-56fe-46b1-bdec-29063c59b0d1.png">
+  <img align="center" alt="Python" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" width="40" height="40" hspace="5" src="https://cdn4.iconfinder.com/data/icons/blackicon/54/bootstrap_icon-256.png">
+  <img align="center" alt="Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="jQuery" width="30" height="30" hspace="5" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png">
+  <img align="center" alt="C" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
+  <img align="center" alt="Git" width="30" height="30" hspace="5" src="https://user-images.githubusercontent.com/80121288/134348295-401a09f4-56fe-46b1-bdec-29063c59b0d1.png">
 </div>
 
 <div style="display: inline_block">
   <h2>📚Currently learning: </h2>
-  <img align="center" alt="Node" width="60" height="60" src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-256.png">
-  <img align="center" alt="Express" width="50" height="40" src="https://cdn.discordapp.com/attachments/855470619675852860/890233372515917904/unknown.png">
-  <img align="center" alt="React Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
+  <img align="center" alt="Node" width="30" height="40" hspace="5" src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-256.png">
+  <img align="center" alt="Express" width="30" height="25" hspace="5" src="https://cdn.discordapp.com/attachments/855470619675852860/890233372515917904/unknown.png">
+  <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
 </div>
  
   <div>
