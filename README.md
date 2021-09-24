@@ -33,8 +33,7 @@
 
 <div style="display: inline_block">
   <h2>📚Currently learning: </h2>
-  <img align="center" alt="Node" width="30" height="40" hspace="5" src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-256.png">
-  <img align="center" alt="Express" width="30" height="25" hspace="5" src="https://cdn.discordapp.com/attachments/855470619675852860/890233372515917904/unknown.png">
+  <img align="center" alt="Node" width="40" height="50" hspace="5" src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-256.png">
   <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
 </div>
  
