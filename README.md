@@ -1,14 +1,14 @@
 <div align="center">
   <h1>👋Hi, i am Thiago González</h1>
-  <p>Welcome, here you can have access to my portfolio located in my github repositories and know a little about me.</p>
+  <p>Welcome, here you can have access to my portfolio and know a little about me.</p>
 </div>
 
 <div>
   <h2>🧐About me: </h1>
   <ul>
     <li>Computer Engineering Student from São Luís - MA, Brazil.</li>
-    <li>Web Developer.</li>
-    <li>Currently working on a scientific initiation project applied to web development at UEMA.</li>
+    <li>Growing Developer.</li>
+    <li>Currently working on a scientific initiation project applied to web development.</li>
   </ul>
 </div>
 
