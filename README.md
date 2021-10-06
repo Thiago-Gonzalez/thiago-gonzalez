@@ -33,7 +33,7 @@
 
 <div style="display: inline_block">
   <h2>📚Currently learning: </h2>
-  <img align="center" alt="Node" width="40" height="50" hspace="5" src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-256.png">
+  <img align="center" alt="Node" width="30" height="40" hspace="5" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
   <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
 </div>
  
