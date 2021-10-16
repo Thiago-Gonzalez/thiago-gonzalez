@@ -27,6 +27,7 @@
     <img align="center" alt="CSS" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Node" width="30" height="40" hspace="5" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
     <img align="center" alt="jQuery" width="30" height="30" hspace="5" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png">
     <img align="center" alt="C" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img>
     <img align="center" alt="Git" width="30" height="30" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
@@ -36,8 +37,10 @@
 <div style="display: inline_block">
   <h2>📚Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
-    <img align="center" alt="Node" width="30" height="40" hspace="5" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
     <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
+    <img align="center" alt="mySQL" width="30" height="30" hspace="5" src="https://user-images.githubusercontent.com/80121288/137584468-db7bb5e4-cc99-4b0d-862c-1beb62db3900.png">
+    
+
   </a>
 </div>
  
