@@ -43,6 +43,13 @@
 
   </a>
 </div>
+
+<div>
+  <h2>🗃Projects not hosted on github: </h2>
+  <ul>
+    <li>Newsletter: <a href="https://damp-lowlands-58702.herokuapp.com"></a></li>
+  </ul>
+  </div>
  
   <div>
     <h2>📈Git Stats: </h2>
