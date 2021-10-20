@@ -47,7 +47,7 @@
 <div>
   <h2>🗃Projects not hosted on github: </h2>
   <ul>
-    <li>Newsletter: <a href="https://damp-lowlands-58702.herokuapp.com"></a></li>
+    <li><a href="https://damp-lowlands-58702.herokuapp.com">Newsletter: </a> A project made using HTML, CSS, Bootstrap, JS, NodeJS, ExpressJS and Mailchimp API. Hosted on Heroku server.</li>
   </ul>
   </div>
  
