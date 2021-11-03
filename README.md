@@ -38,6 +38,7 @@
   <h2>📚Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
     <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
+  <img align="center" alt="TypeScript" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png"></img>
   <img align="center" alt="Java" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png"></img>
   <img align="center" alt="Spring" width="30" height="30" hspace="5" src="https://img.icons8.com/color/48/000000/spring-logo.png"></img>
   <img align="center" alt="Python" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
