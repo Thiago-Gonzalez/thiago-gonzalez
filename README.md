@@ -14,7 +14,7 @@
 
 <div> 
   <h2>📩How to reach me: </h2>
-  <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img hspace="5" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="30" height="30"></a> 
+  <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img hspace="5" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" target="_blank" width="30" height="30"></a> 
   <a href="https://instagram.com/thiagogonzalez.dev" target="_blank"><img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="40"></a>
   <a href = "mailto:contatothiagogonzalez@gmail.com"><img hspace="5" src="https://user-images.githubusercontent.com/80121288/134347624-e4479d7f-217b-4bb3-af01-fc9e4faf2dcf.png" target="_blank" width="30" height="30"></a>
 </div>
