@@ -31,23 +31,15 @@
     <img align="center" alt="EJS" width="30" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_ejs_icon_130626.png">
     <img align="center" alt="Git" width="30" height="30" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
   <img align="center" alt="MongoDB" width="40" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png">
+    <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
+  <img align="center" alt="Java" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png"></img>
   </a>
 </div>
 
 <div style="display: inline_block">
   <h2>📚Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
-    <img align="center" alt="React Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
-  <img align="center" alt="TypeScript" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png"></img>
-  <img align="center" alt="Java" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png"></img>
-  <img align="center" alt="Spring" width="30" height="30" hspace="5" src="https://img.icons8.com/color/48/000000/spring-logo.png"></img>
-  <img align="center" alt="Postgreesql" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_logo_icon_146389.png"></img>
-  <img align="center" alt="Python" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
-
-    
-    
-
+    <img align="center" alt="C#" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
   </a>
 </div>
  
