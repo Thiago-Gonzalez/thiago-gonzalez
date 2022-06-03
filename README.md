@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h2>🧐About me: </h1>
+  <h2>🧐 | About me: </h1>
   <ul>
     <li>Computer Engineering Student from São Luís - MA, Brazil.</li>
     <li>Growing Developer.</li>
@@ -13,14 +13,14 @@
 </div>
 
 <div> 
-  <h2>📩How to reach me: </h2>
+  <h2>📩 | How to reach me: </h2>
   <a href="https://www.linkedin.com/in/thiago-gonz%C3%A1lez-94b103217/" target="_blank"><img hspace="5" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" target="_blank" width="30" height="30"></a> 
   <a href="https://instagram.com/thiagogonzalez.dev" target="_blank"><img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="40"></a>
   <a href = "mailto:contatothiagogonzalez@gmail.com"><img hspace="5" src="https://user-images.githubusercontent.com/80121288/134347624-e4479d7f-217b-4bb3-af01-fc9e4faf2dcf.png" target="_blank" width="30" height="30"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>💻Languages and Tools: </h2>
+  <h2>💻 | Languages and Tools: </h2>
   <a href = "https://github.com/thiago-gonzalez">
     <img align="center" alt="HTML" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,7 +34,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2>📚Currently learning: </h2>
+  <h2>📚 | Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
     <img align="center" alt=".NET" width="30" height="30" hspace="5" src="https://avatars.githubusercontent.com/u/9141961?s=64&v=4" />
     <img align="center" alt="ASP.NET" width="30" height="30" hspace="5" src="https://avatars.githubusercontent.com/u/6476660?s=64&v=4" />
@@ -42,11 +42,10 @@
 </div>
  
   <div>
-    <h2>📈Git Stats: </h2>
-  <a href="https://github.com/thiago-gonzalez">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-gonzalez&show_icons=true&title_color=ffa726&text_color=fff&icon_color=F7EF8A&bg_color=000&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-gonzalez&layout=compact&langs_count=7&title_color=ffa726&text_color=fff&bg_color=000"/><br><br>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-    </div>
+    <h2>📈 | Git Stats: </h2>
+    <a href="https://github.com/thiago-gonzalez">
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=thiago-gonzalez&show_icons=true&title_color=ffa726&text_color=fff&icon_color=F7EF8A&bg_color=000&include_all_commits=true&count_private=true" />
+      <img width="50px" />
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-gonzalez&layout=compact&langs_count=7&title_color=ffa726&text_color=fff&bg_color=000"/><br><br>
+  </div>
   
