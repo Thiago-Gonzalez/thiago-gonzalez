@@ -42,7 +42,7 @@
 </div>
  
   <div>
-    <h2>📈 | Git Stats: </h2>
+    <h2>📈 | Github Stats: </h2>
     <a href="https://github.com/thiago-gonzalez">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=thiago-gonzalez&show_icons=true&title_color=ffa726&text_color=fff&icon_color=F7EF8A&bg_color=000&include_all_commits=true&count_private=true" />
       <img width="50px" />
