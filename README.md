@@ -22,8 +22,8 @@
 <div style="display: inline_block"><br>
   <h2>💻 | Languages and Tools: </h2>
   <a href = "https://github.com/thiago-gonzalez">
-    <img align="center" alt=".NET" width="30" height="30" hspace="5" src="https://avatars.githubusercontent.com/u/9141961?s=64&v=4" />
     <img align="center" alt="C#" width="30" height="30" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
+    <img align="center" alt=".NET" width="30" height="30" hspace="5" src="https://avatars.githubusercontent.com/u/9141961?s=64&v=4" />
     <img align="center" alt="HTML" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" width="30" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
