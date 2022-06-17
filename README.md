@@ -40,6 +40,7 @@
     <img align="center" alt="EF Core" width="75" height="40" hspace="5" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
     <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://i0.wp.com/henriquemauri.net/wp-content/uploads/2022/02/dapper-dotnet.png?fit=804%2C403&ssl=1" />
     <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
+    <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
     <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
     <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
     <img align="center" alt="Angular" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />
