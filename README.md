@@ -22,8 +22,13 @@
 <div style="display: inline_block"><br>
   <h2>💻 | Languages and Tools: </h2>
   <a href = "https://github.com/thiago-gonzalez">
+  <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
     <img align="center" alt="dotnet" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"/>
-    <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
+    <img align="center" alt="ASP.NET" width="50" height="40" hspace="5" src="https://cdn.discordapp.com/attachments/974356348533895228/983041244525629480/asp.net.png" />
+    <img align="center" alt="EF Core" width="75" height="40" hspace="5" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
+    <img align="center" alt="JWT" width="80" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
+    <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
+    <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
     <img align="center" alt="HTML" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -36,16 +41,10 @@
 <div style="display: inline_block">
   <h2>📚 | Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
-    <img align="center" alt="ASP.NET" width="50" height="40" hspace="5" src="https://cdn.discordapp.com/attachments/974356348533895228/983041244525629480/asp.net.png" />
-    <img align="center" alt="EF Core" width="75" height="40" hspace="5" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
     <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://i0.wp.com/henriquemauri.net/wp-content/uploads/2022/02/dapper-dotnet.png?fit=804%2C403&ssl=1" />
-    <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
-    <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
     <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
     <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
     <img align="center" alt="Angular" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />
-    <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
-    
   </a>
 </div>
  
