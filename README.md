@@ -20,7 +20,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>💻 | Languages and Tools: </h2>
+  <h2>💻 | Skills: </h2>
   <h4>Back-end:</h4>
   <a href = "https://github.com/thiago-gonzalez">
   <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
@@ -29,9 +29,18 @@
     <img align="center" alt="EF Core" width="75" height="40" hspace="5" src="https://blog.sharetechlinks.com/wp-content/uploads/2020/11/ef-core-featured.png" />
     <img align="center" alt="JWT" width="80" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
     <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
-    <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
-    <img align="center" alt="Git" width="40" height="40" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
   </a>
+  
+  <h4>DevOps:</h4>
+  <a href="https://github.com/thiago-gonzalez">
+     <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
+  </a>
+  
+  <h4>Code versioning:</h4>
+  <a href="https://github.com/thiago-gonzalez">
+     <img align="center" alt="Git" width="40" height="40" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
+  </a>
+  
   <h4>Front-end:</h4>
   <a href="https://github.com/thiago-gonzalez">
      <img align="center" alt="HTML" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
