@@ -23,12 +23,12 @@
   <h2>💻 | Skills: </h2>
   <h4>Back-end:</h4>
   <a href = "https://github.com/thiago-gonzalez">
-  <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
-    <img align="center" alt="dotnet" height="40" width="60" src="https://tutorialslink.com/Article_file/48b1bfe7-2798-479f-9afb-b80161a5d476.png"/>
-    <img align="center" alt="ASP.NET" width="67" height="40" hspace="5" src="https://appdec.com/Portals/4/EasyDNNNews/135/750450c615EDNmain135core-image.jpg" />
-    <img align="center" alt="EF Core" width="75" height="40" hspace="5" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
-    <img align="center" alt="JWT" width="80" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
-    <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
+  <img align="center" alt="C#" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
+    <img align="center" alt="dotnet" height="50" width="75" src="https://live.staticflickr.com/65535/52290773695_fffe377876_b.jpg"/>
+    <img align="center" alt="ASP.NET" width="75" height="50" hspace="5" src="https://live.staticflickr.com/65535/52289312302_b988616aa9_b.jpg" />
+    <img align="center" alt="EF Core" width="75" height="50" hspace="5" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
+    <img align="center" alt="JWT" width="80" height="50" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
+    <img align="center" alt="xUnit" width="50" height="50" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
   </a>
   
   <h4>DevOps:</h4>
