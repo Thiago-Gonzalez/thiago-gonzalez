@@ -57,7 +57,8 @@
     <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://i0.wp.com/henriquemauri.net/wp-content/uploads/2022/02/dapper-dotnet.png?fit=804%2C403&ssl=1" />
     <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
     <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
-    <img align="center" alt="Angular" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />
+    <img align="center" alt="TypeScript" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+    <img align="center" alt="Tailwind" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_tailwind_icon_130128.png" />
   </a>
 </div>
  
