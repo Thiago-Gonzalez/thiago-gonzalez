@@ -31,6 +31,17 @@
     <img align="center" alt="xUnit" width="50" height="50" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
   </a>
   
+  <h4>Front-end:</h4>
+  <a href="https://github.com/thiago-gonzalez">
+    <img align="center" alt="React Js" width="50" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
+    <img align="center" alt="TypeScript" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
+    <img align="center" alt="Js" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Tailwind" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_tailwind_icon_130128.png" />
+    <img align="center" alt="Bootstrap" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+     <img align="center" alt="HTML" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  
   <h4>DevOps:</h4>
   <a href="https://github.com/thiago-gonzalez">
      <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
@@ -40,15 +51,6 @@
   <a href="https://github.com/thiago-gonzalez">
      <img align="center" alt="Git" width="40" height="40" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
   </a>
-  
-  <h4>Front-end:</h4>
-  <a href="https://github.com/thiago-gonzalez">
-     <img align="center" alt="HTML" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React Js" width="50" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
-    <img align="center" alt="Bootstrap" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  </a>
 </div>
 
 <div style="display: inline_block">
@@ -57,8 +59,6 @@
     <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://i0.wp.com/henriquemauri.net/wp-content/uploads/2022/02/dapper-dotnet.png?fit=804%2C403&ssl=1" />
     <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
     <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
-    <img align="center" alt="TypeScript" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
-    <img align="center" alt="Tailwind" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_tailwind_icon_130128.png" />
   </a>
 </div>
  
