@@ -8,7 +8,7 @@
   <ul>
     <li>Computer Engineering Student from São Luís - MA, Brazil.</li>
     <li>Growing .NET Developer.</li>
-    <li>Currently working on a scientific initiation project applied to web development using HTML, CSS, JavaScript and ReactJS.</li>
+    <li>Currently working as an Intern C# Developer at CMCorp.</li>
   </ul>
 </div>
 
