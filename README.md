@@ -50,8 +50,8 @@
   <h4>Back-end:</h4>
   <a href = "https://github.com/thiago-gonzalez">
   <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
-    <img align="center" alt="dotnet" height="40" width="50" src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png"/>
-    <img align="center" alt="ASP.NET" width="70" height="40" hspace="5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqLLtyeVe7MDkCAAIxWGrTCyfykia-E9_OQA0di_NsCQ9yPHkTg3HKT2xMGeOnCz1woM&usqp=CAU" />
+    <img align="center" alt="dotnet" height="40" width="40" src="https://media.licdn.com/dms/image/C4D0BAQEP2Sk0H5WEhg/company-logo_100_100/0/1673019573086?e=1684972800&v=beta&t=zIQ639NMiMTVhKxTtnhektBXWenVVYWdXqcBi2M8ANw"/>
+    <img align="center" alt="ASP.NET" width="40" height="40" hspace="5" src="https://media.licdn.com/dms/image/C4E0BAQG-w-FVmH1K7Q/company-logo_200_200/0/1594046306710?e=1684972800&v=beta&t=16sBEiAuyZ1JtTOmHnomwe4P_97PV7q77zgKlngviKw" />
     <img align="center" alt="EF Core" width="70" height="40" hspace="5" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
     <img align="center" alt="JWT" width="70" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
     <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
