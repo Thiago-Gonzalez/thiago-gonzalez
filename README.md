@@ -21,31 +21,27 @@
 
 <div style="display: inline_block"><br>
   <h2>💻 | Skills: </h2>
-  <pre>
-  1. C#.
-  2. .NET 7.
-  3. Web Rest APIs development with ASP.NET Core.
-  4. Use of Clean Architecture (application divided into 4 layers of responsibilities, being them the API,
-     responsible for receiving the requests through the Controllers, Application, responsible for 
-     processing requests and applying filters, Core (or Domain), responsible for Business Rules, Domain 
-     Entities, Exceptions, Enumerations and Interfaces, and finally the Infrastructure, responsible
-     by services such as authentication, cloud, data persistence, etc), Command-Query Responsility 
-     Segregation (CQRS) to separate Queries from actions that change the state of the system
-     (Commands) and Repository Pattern to encapsulate data access, decoupling implementation details
-     through interfaces.
-  5. Persistence and data access with Entity Framework Core and SQL Server.
-  6. Unit Tests with xUnit.
-  7. Logs with Serilog.
-  8. API validation with FluentValidation.
-  9. Authentication and Authorization with JWT Bearer.
-  10. UI development with ReactJS (TypeScript | JavaScript).
-  11. Routing with React-router-dom.
-  12. Styling with Styled Components.
-  13. API consumption with Axios.
-  14. RSCSS pattern for writing CSS code.
-  15. ITCSS pattern, for CSS folder structure.
-  16. Code versioning with Git/Github.
-</pre>
+  <ul>
+    <li>C#.</li>
+    <li>.NET 7.</li>
+    <li>Web Rest APIs development with ASP.NET Core.</li>
+    <li>Use of Clean Architecture (application divided into 4 layers of responsibilities, being them the API, responsible for receiving the requests through the Controllers, Application, responsible for processing requests and applying filters, Core (or Domain), responsible for Business Rules, Domain Entities, Exceptions, Enumerations and Interfaces, and finally the Infrastructure, responsible by services such as authentication, cloud, data persistence, etc), Command-Query Responsility Segregation (CQRS) to separate Queries from actions that change the state of the system (Commands) and Repository Pattern to encapsulate data access, decoupling implementation details through interfaces.</li>
+    <li>Persistence and data access with Entity Framework Core and SQL Server.</li>
+    <li>Unit Tests with xUnit.</li>
+    <li>Logs with Serilog.</li>
+    <li>API documentation with Swagger.</li>
+    <li>API validation with FluentValidation.</li>
+    <li>Authentication and Authorization with JWT Bearer.</li>
+    <li>UI development with ReactJS (TypeScript | JavaScript).</li>
+    <li>Routing with React-router-dom.</li>
+    <li>Styling with Styled Components.</li>
+    <li>API consumption with Axios.</li>
+    <li>RSCSS pattern for writing CSS code.</li>
+    <li><ITCSS pattern, for CSS folder structure./li>
+    <li>Code versioning with Git/Github.</li>
+    <li>Code versioning (chekin | merging) with Azure Devops Server (Team Foundation).</li>
+    <li>Scrum and Kanban Agile methodologies with Azure Devops.</li>
+</ul>
   
   <h4>Back-end:</h4>
   <a href = "https://github.com/thiago-gonzalez">
