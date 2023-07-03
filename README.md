@@ -42,31 +42,6 @@
     <li>Code versioning (chekin | merging) with Azure Devops Server (Team Foundation).</li>
     <li>Scrum and Kanban Agile methodologies with Azure Devops.</li>
 </ul>
-  
-  <h4>Back-end:</h4>
-  <a href = "https://github.com/thiago-gonzalez">
-  <img align="center" alt="C#" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/csharp_original_logo_icon_146578.png"></img>
-    <img align="center" alt="dotnet" height="40" width="40" src="https://media.licdn.com/dms/image/C4D0BAQEP2Sk0H5WEhg/company-logo_100_100/0/1673019573086?e=1684972800&v=beta&t=zIQ639NMiMTVhKxTtnhektBXWenVVYWdXqcBi2M8ANw"/>
-    <img align="center" alt="ASP.NET" width="40" height="40" hspace="5" src="https://media.licdn.com/dms/image/C4E0BAQG-w-FVmH1K7Q/company-logo_200_200/0/1594046306710?e=1684972800&v=beta&t=16sBEiAuyZ1JtTOmHnomwe4P_97PV7q77zgKlngviKw" />
-    <img align="center" alt="EF Core" width="70" height="40" hspace="5" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png" />
-    <img align="center" alt="JWT" width="70" height="40" hspace="5" src="https://miro.medium.com/max/790/0*ztIjuZkjxOEqu2Dt.png" />
-    <img align="center" alt="xUnit" width="40" height="40" hspace="5" src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" />
-  </a>
-  
-  
-  <h4>Front-end:</h4>
-  <a href="https://github.com/thiago-gonzalez">
-    <img align="center" alt="React Js" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img>
-    <img align="center" alt="TypeScript" width="47.5" height="47.5" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" />
-    <img align="center" alt="Js" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-     <img align="center" alt="HTML" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" width="40" height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  
-  <h4>Code versioning:</h4>
-  <a href="https://github.com/thiago-gonzalez">
-     <img align="center" alt="Git" width="40" height="40" hspace="5" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
-  </a>
 </div>
 
 <div style="display: inline_block">
