@@ -33,11 +33,7 @@
     <li>API validation with FluentValidation.</li>
     <li>Authentication and Authorization with JWT Bearer.</li>
     <li>UI development with ReactJS (TypeScript | JavaScript).</li>
-    <li>Routing with React-router-dom.</li>
     <li>Styling with Styled Components.</li>
-    <li>API consumption with Axios.</li>
-    <li>RSCSS pattern for writing CSS code.</li>
-    <li>ITCSS pattern, for CSS folder structure.</li>
     <li>Code versioning with Git/Github.</li>
     <li>Code versioning (chekin | merging) with Azure Devops Server (Team Foundation).</li>
     <li>Scrum and Kanban Agile methodologies with Azure Devops.</li>
