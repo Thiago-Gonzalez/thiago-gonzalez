@@ -6,7 +6,7 @@
 <div>
   <h2>🧐 | About me: </h1>
   <ul>
-    <li>23y, Computer Engineering Student from São Luís - MA, Brazil.</li>
+    <li>25y, Computer Engineering Student from São Luís - MA, Brazil.</li>
     <li>.NET and C# development enthusiast.</li>
     <li>Currently working as an Intern C# Developer at CMCorp.</li>
   </ul>
