@@ -23,15 +23,19 @@
   <h2>💻 | Skills: </h2>
   <ul>
     <li>C#.</li>
-    <li>.NET 7.</li>
+    <li>.NET 9.</li>
     <li>Web Rest APIs development with ASP.NET Core.</li>
     <li>Use of Clean Architecture (application divided into 4 layers of responsibilities, being them the API, responsible for receiving the requests through the Controllers, Application, responsible for processing requests and applying filters, Core (or Domain), responsible for Business Rules, Domain Entities, Exceptions, Enumerations and Interfaces, and finally the Infrastructure, responsible by services such as authentication, cloud, data persistence, etc), Command-Query Responsility Segregation (CQRS) to separate Queries from actions that change the state of the system (Commands) and Repository Pattern to encapsulate data access, decoupling implementation details through interfaces.</li>
-    <li>Persistence and data access with Entity Framework Core and SQL Server.</li>
+    <li>Persistence and data access with Entity Framework Core/Dapper and SQL Server.</li>
     <li>Unit Tests with xUnit.</li>
     <li>Logs with Serilog.</li>
     <li>API documentation with Swagger.</li>
     <li>API validation with FluentValidation.</li>
     <li>Authentication and Authorization with JWT Bearer.</li>
+    <li>Background Services with HostedServices</li>
+    <li>Background Jobs with Hangfire</li>
+    <li>Messaging with RabbitMQ (RabbitMQ.Client/EasyNetQ/MassTransit)</li>
+    <li>Docker</li>
     <li>UI development with ReactJS (TypeScript | JavaScript).</li>
     <li>Styling with Styled Components.</li>
     <li>Code versioning with Git/Github.</li>
@@ -43,9 +47,6 @@
 <div style="display: inline_block">
   <h2>📚 | Currently learning: </h2>
   <a href = "https://github.com/thiago-gonzalez">
-    <img align="center" alt="Dapper" width="80" height="40" hspace="5" src="https://i0.wp.com/henriquemauri.net/wp-content/uploads/2022/02/dapper-dotnet.png?fit=804%2C403&ssl=1" />
-    <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
-    <img align="center" alt="Docker" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
     <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
   </a>
 </div>
