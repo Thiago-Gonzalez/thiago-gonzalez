@@ -8,7 +8,7 @@
   <ul>
     <li>25y, Computer Engineering Student from São Luís - MA, Brazil.</li>
     <li>.NET and C# development enthusiast.</li>
-    <li>Currently working as an Intern C# Developer at CMCorp.</li>
+    <li>Currently working as a Jr C# Developer at CMCorp.</li>
   </ul>
 </div>
 
